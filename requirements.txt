@@ -1,0 +1,6 @@
+tensorflow
+gym
+numpy
+matplotlib
+pandas
+opencv-python
